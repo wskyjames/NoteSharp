@@ -1,0 +1,1 @@
+var notesApp = angular.module('notesApp', ['firebase',  'notesCtrl', 'notesService', 'underscore']);
